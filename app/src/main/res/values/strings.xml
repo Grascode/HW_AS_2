@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW_AS_2</string>
+    <string name="division_calc">Деление двух чисел</string>
+    <string name="startCount">Начать вычисление</string>
+    <string name="student">Меньщиков Александр Дмитриевич \n2 Вариант</string>
+    <string name="dividend">Делимое</string>
+    <string name="divisor">Делитель</string>
+    <string name="calc">Вычислить</string>
+</resources>
